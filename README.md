@@ -12,3 +12,5 @@ Exploring the framework.
 ## Resources
 - [Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Texting robots on Mars using Python, Flask, NASA APIs and Twilio MMS](https://www.twilio.com/blog/2017/04/texting-robots-on-mars-using-python-flask-nasa-apis-and-twilio-mms.html)
+-[Homebrew brew doctor warning about /Library/Frameworks/Python.framework](https://stackoverflow.com/questions/22255579/homebrew-brew-doctor-warning-about-library-frameworks-python-framework-even-wi)
+-[Warning: A Python is installed in /Library/Frameworks](https://github.com/Homebrew/legacy-homebrew/issues/27146)
